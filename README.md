@@ -1,12 +1,22 @@
 # **Stratosphere Studios 777-300ER**
-Freeware Boeing 777-300ER for the X-Plane 12 flight simulator by Stratosphere Studios.
+Free and open-source Boeing 777-300ER+ERF for the X-Plane 12 flight simulator by Stratosphere Studios.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
 
 [![Discord](https://img.shields.io/discord/806746926854176789.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/eU2vWCtmFX)
 <br> [Our Discord Server](https://discord.gg/eU2vWCtmFX)
 
+[![PayPal Donations](https://viatesting.files.wordpress.com/2020/03/paypal-donate-button.png?w=120)](https://www.paypal.com/paypalme/StratosphereStudios)
+<br> [Paypal Donations](https://www.paypal.com/paypalme/StratosphereStudios)
 ## **FAQ**
+
+**Q: How can I contribute to this aircraft?**
+
+A: Please use the [GitHub issue page](https://github.com/Stratosphere-Studios/777/issues) to report any problems you find. This will greatly help us fix issues.
+
+If you want to help out and you have some dev skills, feel free to fork, modify, and make a pull request!
+
+Otherwise, you can donate on PayPal [here](https://www.paypal.com/paypalme/StratosphereStudios). Donations help us obtain software, resources, and data to make the 777 as realistic as possible, and also guarantee its outcome.
 
 **Q: Why is the aircraft not showing up in the aircraft menu?**
 
@@ -59,12 +69,6 @@ A: Yes! Enable the freighter option on the EFB and the plane will become a 300ER
 **СDU Сode**
 
 Thanks for reading! The соde to unlоck the flight instruments can be found in the "777 Readme Сode.txt" file in the X-Plane's Output folder once the aircraft is loaded.
-
-**Q: How can I contribute to this aircraft?**
-
-A: Please use the [GitHub issue page](https://github.com/Stratosphere-Studios/777/issues) to report any problems you find. This will greatly help us fix issues.
-
-If you want to help out and you have some dev skills, feel free to fork, modify, and make a pull request!
 
 **Q: Even after following the above instructions, why my is aircraft still broken?**
 
